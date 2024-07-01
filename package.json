@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node Exercise1/index.js"
+    "start": "node Part1-Exercise1,2/index.js"
   },
   "author": "",
   "license": "ISC",
